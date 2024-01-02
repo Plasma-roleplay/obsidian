@@ -10,6 +10,7 @@ type:
   - Contexte
 plasma: true
 path: /
+attachmentLinks: _assets
 ---
 
 
@@ -22,13 +23,13 @@ Les produits délivrés sont transformés à partir des différentes hormones na
 Les anciens implants luisent légèrement d'une lueur lorsqu'ils sont activés.
 
 Certains implants se présentent différemment : ce sont les générateurs de boucliers, très rare et difficile d’accès, ils permettent à leur détenteur d’activer un bouclier impénétrable pour les rayons des blasters. Ces boucliers ne sont pas imperméables aux armes « physiques » comme les épées, ou les balles.
-![[./docs/assets/img/Plasma-Implant-Bouclier-1-1-1-1.png|center]]
+![[./_assets/Plasma-Implant-Bouclier-1-1-1-1.png|center]]
 
 Il existe deux types d’implants :
 - Les légaux, dont la plupart sont réservés à l’armée. Ils ne sont pas physiquement douloureux, ne provoque aucune gêne, et on peut les désactiver voire les retirer. Il en existe des simples, et des doubles, très rares, mais aussi très puissants. Ils sont visiblement à l’extérieur, mais ne sont pas simplement posé : ils sont légèrement enfoncé dans la peau par leur centre.
-  ![[./docs/assets/img/Plasma-Implant-Simple-1-1-1.png|Plasma-Implant-Simple-1-1-1.png]]![[./docs/assets/img/Plasma-Implant-Double-1-1-1-1.png|Plasma-Implant-Double-1-1-1-1.png]]
+  ![[./_assets/Plasma-Implant-Simple-1-1-1.png|Plasma-Implant-Simple-1-1-1.png]]![[./_assets/Plasma-Implant-Double-1-1-1-1.png|Plasma-Implant-Double-1-1-1-1.png]]
 - Les illégaux, douloureux physiquement, qui se trouvent totalement à l’extérieur du corps. Ils ne se trouvent que dans les articulations et proches des os, pinçant la peau. Peu de personnes les utilisent, car parfois, leur comportement est improbable. Même les mercenaires les évitent, car ils n’aimeraient pas ne plus avoir contrôle d’eux-mêmes.
-  ![[./docs/assets/img/Plasma-Implant-Illégal-1-1-1.png|Plasma-Implant-Illégal-1-1-1.png]]
+  ![[./_assets/Plasma-Implant-Illégal-1-1-1.png|Plasma-Implant-Illégal-1-1-1.png]]
 Les implants ont été inventés par la biologiste terrienne Andréa Mistral en 2030. À l’origine, leur but était seulement médical, mais seulement un an après leur mise sur le marché, ils ont été modifiés par l’armée. Aujourd’hui, ils sont introuvables sur Terre, sauf dans le cas des médicaux, mais peu en porte.
 
 Il existe plusieurs de dizaine de couleurs différentes pour les reconnaître, telles que : marron pour la force, bleu pour la vitesse, violet pour les connexions, rouge pour les médicaux, vert pour les rajeunissements, jaune pour l’intelligence…
@@ -43,7 +44,7 @@ Généralement, les personnes ayant des implants de ce type possèdent des impla
 
 Quand une personne ayant un implant mémoriel meurt, elle est généralement clonée avec un double d’elle-même (sauf demande de modification génétique), ou envoyer dans un corps de cyborg, mais cela est réservé à l’armée en temps de guerre.
 
-![[./docs/assets/img/Implant-Mémoriel-1-1-1-1.png|center]]
+![[./_assets/Implant-Mémoriel-1-1-1-1.png|center]]
 
 # Vêtements
 
